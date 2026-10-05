@@ -16,6 +16,9 @@ like this, and checks its own work.
   with a crossfade.
 - **Motion that never hides content:** scroll-linked and interaction-driven
   only, and off under reduced motion.
+- **UX psychology:** layout and interactions follow growth.design's principles
+  (Hick's Law, Progressive Disclosure, Chunking, Fitts's Law and more), mapped in
+  `references/ux-principles.md`.
 - **Quality built in:** WCAG 2.2 AA, pre-rendered HTML, self-hosted fonts, a
   strict Content Security Policy, real 404s and Vercel-ready config.
 - **Starter template** (`assets/template/`): Vite 8 + React 19 + TypeScript 7.
